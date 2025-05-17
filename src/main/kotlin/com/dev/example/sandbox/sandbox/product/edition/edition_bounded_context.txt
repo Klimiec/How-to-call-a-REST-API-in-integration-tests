@@ -1,0 +1,1 @@
+Logic for edition bounded context
